@@ -1,3 +1,6 @@
-#class files
+#ignore files with these endings
 *.class
+.DS_Store
+
+
 
